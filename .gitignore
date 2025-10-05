@@ -1,0 +1,7 @@
+.venv
+.env
+__pycache__
+.DS_Store
+1_base_agent/__pycache__
+2_tool_agent/__pycache__
+2_tool_agent/tool_agent/__pycache__
